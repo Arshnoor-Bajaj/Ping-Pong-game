@@ -3,7 +3,9 @@ Bouncing the ping-pong ball from one bar to another through hand gesture.
 
 # Key Components
 OpenCV (cv2)
+
 cvzone, cvzone (HandDetector)
+
 numpy
 
 # Screenshots
